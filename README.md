@@ -1,6 +1,6 @@
 # Population-Health-Diagnostics-Analytics
 
-Please note this repository is only a test file and does not contain real data. 
+Please note this repository does not contain real data. 
 This repository contains a SQL-based database project to anayze population health metrics and diagnostic trends. This database tracks demographics, health indicators, diagnostic test results, and disease trends across regions.
 
 ## Database Schema
