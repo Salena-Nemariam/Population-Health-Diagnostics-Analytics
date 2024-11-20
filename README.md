@@ -4,8 +4,8 @@ Please note this repository is only a test file and does not contain real data.
 It contains a SQL-based database project to anayze population health metrics and diagnostic trends. The database tracks demographics, health indicators, diagnostic test results, and disease trends across regions.
 
 ## Database Schema
-**Demographics**: Tracks the population's age group, gender, region, and population count. 
-**HealthIndicators**: Tracks health metrics such as vaccination rates and chronic disease prevalence. 
+- **Demographics**: Tracks the population's age group, gender, region, and population count. 
+- **HealthIndicators**: Tracks health metrics such as vaccination rates and chronic disease prevalence. 
 - **Diagnostics**: Stores diagnostic test results linked to diseases and patient demographics.
 - **DiseaseTrends**: Analyzes the prevalence of diseases over time by region.
 
